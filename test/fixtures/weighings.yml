@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  weight: 9.99
+  day: 2019-02-11 14:22:10
+  user: one
+
+two:
+  weight: 9.99
+  day: 2019-02-11 14:22:10
+  user: two
